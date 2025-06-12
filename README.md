@@ -2,6 +2,8 @@
 
 ## 🧩 SigninLog Map json Source Code
 
+Below is the raw JSON configuration file used to generate the SigninLog Map visualization in Azure Monitor Workbooks. This file defines the query, map settings, visual style, and data enrichment used to map failed sign-in attempts.
+
 [Signin-Failure.json](https://github.com/Michael-Kangethe/SigninLog-Map/blob/main/Signin-Failures.json)
 
 ## 📌 Overview
